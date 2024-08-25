@@ -34,7 +34,11 @@ git clone https://github.com/MorshedulHoque/Conversational-WebApp-GeminiPro.git
 ```bash
 pip install -r requirement.txt
 ```
-3. Run the Streamlit application:
+3. Obtain a Google API key for the Gemini Pro model and add it to the .env file:
+```bash
+echo GOOGLE_API_KEY=your_api_key_here > .env
+```
+4. Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
