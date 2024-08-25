@@ -53,8 +53,7 @@ streamlit run app.py
 
 
 ## Live Demo
-You can see the demo of the project in the following link:
-[https://conversational-webapp-geminipro-1.onrender.com/](https://conversational-webapp-geminipro-1.onrender.com/)
+You can see the demo of the project in the following link: [Live Demo](https://conversational-webapp-geminipro-1.onrender.com/)
 
 **Note**: The application might be slow as it is hosted on a very low configured free server.
 
@@ -68,7 +67,7 @@ Contributions are welcome! For major changes, please open an issue first to disc
 Please ensure to update tests as appropriate.
 
 ## Contact
-For further inquiries, contact asmmorshedulhoque
+For further inquiries, contact `asmmorshedulhoque@gmail.com`
 
 ## Version
 This is version 1.0 of the Gemini LLM Q&A Application.
