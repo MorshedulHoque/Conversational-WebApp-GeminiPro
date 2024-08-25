@@ -52,9 +52,20 @@ streamlit run app.py
   ![benchmark](https://github.com/MorshedulHoque/Conversational-WebApp-GeminiPro/blob/main/images/3.png)
 
 
+## Live Demo
+You can see the demo of the project in the following link:
+[https://conversational-webapp-geminipro-1.onrender.com/](https://conversational-webapp-geminipro-1.onrender.com/)
+
+**Note**: The application might be slow as it is hosted on a very low configured free server.
+
 ## Acknowledgments
 - Google AI for the Gemini language model.
 - Streamlit for the interactive web framework.
+
+## Contributions
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+Please ensure to update tests as appropriate.
 
 ## Contact
 For further inquiries, contact asmmorshedulhoque
